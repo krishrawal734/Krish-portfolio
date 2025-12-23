@@ -4,7 +4,10 @@
 </h2>
 <br/>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img width="1920" height="1372" alt="screencapture-localhost-3003-2025-12-23-23_47_16" src="https://github.com/user-attachments/assets/290039f4-1998-4d80-b422-1b5449e8e503" />
+  <img width="1920" height="1786" alt="screencapture-krish-portfolio-nu-five-vercel-app-resume-2025-12-23-23_48_19" src="https://github.com/user-attachments/assets/90adf0ab-5504-443d-b1a4-6186bb3c0aa6" />
+
+
 </div>
 
 <br/>
