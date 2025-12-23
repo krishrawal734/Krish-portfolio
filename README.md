@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - Krish Rawal<br/>
-  <a href="[https://portfolio-bhavesh.vercel.app/](https://krish-portfolio-nu-five.vercel.app/)" target="_blank">portfolio-Krish</a>
+  <a href="[https://krish-portfolio-nu-five.vercel.app/]" target="_blank">portfolio-Krish</a>
 </h2>
 <br/>
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://bhavesh-portfolio-gamma.vercel.app/" target="_blank">bhavesh-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="" target="_blank">Krish-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
