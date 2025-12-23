@@ -1,0 +1,151 @@
+{
+    "name": "Krish Rawal",
+    "tag": "Kr",
+    "nickname": "Krish",
+    "jobheadlines": [
+        "Web Developer",
+        "Software Developer",
+        "React JS Developer",
+        "React Native Developer",
+        "Front-End Developer"
+    ],
+    "github_id": "https://github.com/krishrawal734",
+    "linkedin_id": "https://www.linkedin.com/in/krish-rawal-8ab87339b/ ",
+    "insta_id": "",
+    "languageknow": [
+        "HTML/CSS",
+        "JavaScript (ES6+)",
+        "TypeScript"
+    ],
+    "libraryknow": [
+        "React.js"
+       
+       
+    ],
+    "nativeplace": "Rajasthan, India",
+    "currentstudy": "1st-year student pursuing an Integrated BCA program at Pragati Collage, Associated with GGTU, Rajasthan.",
+    "currentjobrole": "Frontend React Developer",
+    "currentcompany": {
+        "name": "Felix ITs System  Ahemdabad",
+        "website": "https://www.felix-its.com/"
+    },
+    "otheractivities": [
+        "Travelling",
+        "Listening Music",
+        "Reading Technical blogs",
+        "Exploring new technologies"
+    ],
+    "technicalskills": [
+        {
+            "name": "React JS",
+            "icon": "FaReact"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "FaJsSquare"
+        },
+        {
+            "name": "HTML",
+            "icon": "FaHtml5"
+        },
+        {
+            "name": "CSS",
+            "icon": "SiCsswizardry"
+        },
+       
+       
+       
+        
+        {
+            "name": "Next.js",
+            "icon": "SiNextdotjs"
+        },
+       
+        {
+            "name": "TypeScript",
+            "icon": "SiTypescript"
+        },
+      
+        {
+            "name": "GitHub",
+            "icon": "FaGithub"
+        },
+      
+        {
+            "name": "Tailwind CSS",
+            "icon": "SiTailwindcss"
+        },
+        {
+            "name": "Bootstrap",
+            "icon": "FaBootstrap"
+        }
+    ],
+    "technicaltools": [
+        {
+            "name": "Visual Studio Code",
+            "icon": "SiVisualstudiocode"
+        },
+        {
+            "name": "Windows",
+            "icon": "FaWindows"
+        },
+        {
+            "name": "Netlify",
+            "icon": "SiNetlify"
+        },
+        {
+            "name": "Postman",
+            "icon": "SiPostman"
+        },
+       
+        {
+            "name": "Vercel",
+            "icon": "SiVercel"
+        },
+        {
+            "name": "MacOS",
+            "icon": "SiMacos"
+        },
+        {
+            "name": "GitHub",
+            "icon": "AiFillGithub"
+        },
+        {
+            "name": "Git",
+            "icon": "FaGitAlt"
+        },
+        {
+            "name": "Discord",
+            "icon": "SiDiscord"
+        }
+    ],
+    "projects": [
+        {
+            "name": "",
+            "description": ".",
+            "github_url": "",
+            "demo_link": "",
+            "project_thumbnail": ""
+        },
+        {
+             "name": "",
+            "description": ".",
+            "github_url": "",
+            "demo_link": "",
+            "project_thumbnail": ""
+        },
+        {
+            "name": "",
+            "description": ".",
+            "github_url": "",
+            "demo_link": "",
+            "project_thumbnail": ""
+        }, {
+            "name": "",
+            "description": ".",
+            "github_url": "",
+            "demo_link": "",
+            "project_thumbnail": ""
+        }
+    ]
+}
