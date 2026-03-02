@@ -121,31 +121,31 @@
     ],
     "projects": [
         {
-            "name": "",
-            "description": ".",
-            "github_url": "",
-            "demo_link": "",
-            "project_thumbnail": ""
+            "name": "Krish-portfolio",
+            "description": ".A personal developer portfolio showcasing my skills, projects, and experience. Built with modern web technologies for a responsive and interactive user experience. Highlights include featured projects, a skills section, and contact links. Designed to present my professional journey and technical expertise.",
+            "github_url": "https://github.com/krishrawal734/Krish-portfolio",
+            "demo_link": "krish-portfolio-nu-five.vercel.app",
+            "project_thumbnail": "https://private-user-images.githubusercontent.com/224525175/529760577-290039f4-1998-4d80-b422-1b5449e8e503.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzkwOTEsIm5iZiI6MTc3MjQzODc5MSwicGF0aCI6Ii8yMjQ1MjUxNzUvNTI5NzYwNTc3LTI5MDAzOWY0LTE5OTgtNGQ4MC1iNDIyLTFiNTQ0OWU4ZTUwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQwODA2MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTgzNThhZGVmNWQwMDRiNTM2NThhZmQwYzIxZjg4MDk3MGU3Y2M1MWU4ZDA1M2IxYjI1YWZjZWNiNTIyMGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1sBP5Gg-oh9qQ6HIh8sagdZoKzAjGEY1ysvClD8wx0U"
         },
         {
-             "name": "",
-            "description": ".",
-            "github_url": "",
-            "demo_link": "",
-            "project_thumbnail": ""
+             "name": "JavaScript--Notes App",
+            "description": "A simple and intuitive notes web app to create, organize, and manage your notes with folders like Calendar, Archive, and Trash. Technologies Used: HTML, CSS,Bootstrap, JavaScript.",
+            "github_url": "https://github.com/krishrawal734/javascript--Notes-app",
+            "demo_link": "notes-app-green-alpha.vercel.app",
+            "project_thumbnail": "https://private-user-images.githubusercontent.com/224525175/528064983-85cbc9b1-c0bf-4933-ab55-195cd87084d0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzkxODAsIm5iZiI6MTc3MjQzODg4MCwicGF0aCI6Ii8yMjQ1MjUxNzUvNTI4MDY0OTgzLTg1Y2JjOWIxLWMwYmYtNDkzMy1hYjU1LTE5NWNkODcwODRkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQwODA4MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDBiMGZlNDljZmM4NTg4MGRhZDc4NDRkYWEyMTUzY2JkY2M5ODQyOWE2YThlMzcyMDQ4MTAzYjE2NTU5MjFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Kmv6gInrxk0GPElImPaFhzV_Bx_OWgN7fBmFr86AAew"
         },
         {
-            "name": "",
-            "description": ".",
-            "github_url": "",
-            "demo_link": "",
-            "project_thumbnail": ""
+            "name": "E-Commerce--Product--Entry--Form",
+            "description": "E-Commerce Product Entry Form A simple web application designed for easy product catalog management in an e-commerce setting. The app allows users to input product details via a form and immediately preview the added product in a live product catalog section. Built using standard web technologies (HTML, CSS, JavaScript) and styled with Bootstrap 5,",
+            "github_url": "https://github.com/krishrawal734/E-Commerce--Product--Entry--Form",
+            "demo_link": "https://e-commerce-product-entry-form.vercel.app/",
+            "project_thumbnail": "https://private-user-images.githubusercontent.com/224525175/518517980-50eea46b-d769-433d-a9eb-b53a6ae80dc3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzkzODAsIm5iZiI6MTc3MjQzOTA4MCwicGF0aCI6Ii8yMjQ1MjUxNzUvNTE4NTE3OTgwLTUwZWVhNDZiLWQ3NjktNDMzZC1hOWViLWI1M2E2YWU4MGRjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQwODExMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MDg3Y2M5MGZlZDI0M2MxYzFiN2QwZjZlZTVhMzliZmE4YzdjMjc3NjRiYzBjZjRiZmNkNjdkOGVlNzNjNmNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DZsMwlgGGsV0UWE5LEByHjxgyRHaTpkxV6pJJnuVkgc"
         }, {
-            "name": "",
-            "description": ".",
-            "github_url": "",
-            "demo_link": "",
-            "project_thumbnail": ""
+            "name": "React--Validtion--Registration--Form-app",
+            "description": "A React registration form with real-time validation for essential user inputs. Includes fields like name, email, password, and other configurable inputs. Client-side validation ensures required fields are filled correctly before submission. Checks email format and enforces password rules for data accuracy.",
+            "github_url": "https://github.com/krishrawal734/React--Validtion--Registration--Form-app",
+            "demo_link": "https://react-validtion-registration-form-a.vercel.app/",
+            "project_thumbnail": "https://private-user-images.githubusercontent.com/224525175/532398337-374c3d79-3819-4255-829d-061103ed24dc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0Mzk1MjUsIm5iZiI6MTc3MjQzOTIyNSwicGF0aCI6Ii8yMjQ1MjUxNzUvNTMyMzk4MzM3LTM3NGMzZDc5LTM4MTktNDI1NS04MjlkLTA2MTEwM2VkMjRkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQwODEzNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZGQyMGEzOGIxMWIwNjE2ZWVkMDk5ZTBmYzQyZDgyYzAxOGU1OThiMTdiYmM2ZDViMmFlYjJmYTJmNTNiODJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9Xsl92RZI1768CRg6hfqhxtUQhZ0sT0yrxSGnsO45WI"
         }
     ]
 }
