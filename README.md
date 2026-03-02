@@ -1,10 +1,13 @@
 <h2 align="center">
-  Portfolio Website - Bhavesh Rawal<br/>
-  <a href="https://portfolio-bhavesh.vercel.app/" target="_blank">portfolio-bhavesh</a>
+  Portfolio Website - Krish Rawal<br/>
+  <a href="[https://krish-portfolio-nu-five.vercel.app/]" target="_blank">portfolio-Krish</a>
 </h2>
 <br/>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img width="1920" height="1372" alt="screencapture-localhost-3003-2025-12-23-23_47_16" src="https://github.com/user-attachments/assets/290039f4-1998-4d80-b422-1b5449e8e503" />
+  <img width="1920" height="1786" alt="screencapture-krish-portfolio-nu-five-vercel-app-resume-2025-12-23-23_48_19" src="https://github.com/user-attachments/assets/90adf0ab-5504-443d-b1a4-6186bb3c0aa6" />
+
+
 </div>
 
 <br/>
@@ -19,7 +22,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://bhavesh-portfolio-gamma.vercel.app/" target="_blank">bhavesh-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="" target="_blank">Krish-portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -36,12 +39,3 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
